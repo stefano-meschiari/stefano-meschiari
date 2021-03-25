@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Stefano!
 
-<!--
-**stefano-meschiari/stefano-meschiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist at Duo Security. 
 
-Here are some ideas to get you started:
+#### I'm interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖	Researching novel ways to apply machine learning algorithms; learning from label-poor problems; model and bias evaluation.
+
+🛡	Usable, explainable, and actionable security.
+
+📚	Learning, mentoring, sharing knowledge.
+
+💅	Making pretty things.
+
+#### You can find me at:
+* [www.stefanom.io](https://www.stefanom.io)
+* stefano.meschiari@gmail.com
+
+#### About me:
+
+🌈 🪐 🇮🇹 📊
