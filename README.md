@@ -13,3 +13,4 @@ I'm a Data Scientist at Duo Security.
 
 **About me:**<br>
 🌈 🪐 🇮🇹 📊
+R, Scala, Spark, Science
