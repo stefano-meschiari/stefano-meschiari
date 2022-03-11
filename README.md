@@ -15,4 +15,4 @@ I'm a Data Scientist, most recently a Technical Lead at Duo Security (Cisco)
 
 **About me:**<br>
 🌈 🪐 🇮🇹 📊<br>
-R, Scala, Spark, Machine Learning, Science<br>
+R, Scala, Spark, Machine Learning, Science, learning together<br>
