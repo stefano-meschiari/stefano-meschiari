@@ -6,7 +6,7 @@ I'm a Data Scientist, most recently a Technical Lead at Duo Security (Cisco)
 **I'm interested in:**<br>
 * 🤖	Researching novel ways to apply machine learning algorithms; learning from label-poor problems; model and bias evaluation.<br>
 * 🛡	Usable, explainable, and actionable security.<br>
-* 📚	Learning, mentoring, sharing knowledge.<br>
+* 📚	Learning, mentoring, creating knowledge.<br>
 * 💅	Making pretty things.<br>
 
 **You can find me at:**<br>
