@@ -1,7 +1,5 @@
 ### Hi, I'm Stefano!
-I'm a Data Scientist, most recently a Technical Lead at Duo Security (Cisco)
-
-🚨 I'm looking for a job! Hit me up via email if you think I might be a good fit. Here's my [resume](https://www.stefanom.io/resume/).
+I'm a Data Scientist at Stripe.
 
 **I'm interested in:**<br>
 * 🤖	Researching novel ways to apply machine learning algorithms; learning from label-poor problems; model and bias evaluation.<br>
