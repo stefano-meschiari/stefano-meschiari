@@ -1,5 +1,5 @@
 ### Hi, I'm Stefano!
-I'm a Data Scientist at Sublime Security.
+I'm a Machine Learning Researcher at Sublime Security. Previously: Duo Security, Cisco, Stripe.
 
 **I'm interested in:**<br>
 * 🤖	Researching novel ways to apply machine learning algorithms; learning from label-poor problems; model and bias evaluation.<br>
